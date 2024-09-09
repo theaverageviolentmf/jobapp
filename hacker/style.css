@@ -1,7 +1,11 @@
 html {
   text-align: center;
+  background-color: blue;
 }
 .intro {
   text-align: center;
   margin: 0%;
+}
+.higlight {
+  background-color: lime;
 }
