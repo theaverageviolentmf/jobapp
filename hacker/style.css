@@ -8,6 +8,7 @@ html {
 }
 .highlight {
   background-color: lime;
+  color: white;
 }
 p {
   font-family: sans-serif;
