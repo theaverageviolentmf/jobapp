@@ -17,3 +17,9 @@ p {
 a {
   color: red;
 }
+a:visited {
+  color: hotpink;
+}
+a:hover {
+  color: lime;
+}
