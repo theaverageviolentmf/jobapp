@@ -11,4 +11,6 @@ button {
     border-color: gray;
     border-width: 2px;
     border-radius: 5px;
+    width: 100vw;
+    height: 100px;
 }
