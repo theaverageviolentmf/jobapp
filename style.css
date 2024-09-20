@@ -9,7 +9,7 @@ button {
 }
 .tech {
     border-color: gray;
-    border-width: 2px;
+    border-width: 100px;
     border-radius: 5px;
     width: 100vw;
     height: 500px;
