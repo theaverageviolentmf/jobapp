@@ -6,3 +6,8 @@ body {
 button {
     border-color: transparent;
 }
+.whyme {
+    font-family: sans-serif;
+    color: rgb(246, 85, 16);
+    background-color: rgb(255, 238, 230);
+}
