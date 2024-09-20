@@ -5,4 +5,10 @@ button {
     font-family: sans-serif;
     color: rgb(246, 85, 16);
     background-color: rgb(255, 238, 230);
+    padding-left: 10px;
+}
+.tech {
+    border-color: gray;
+    border-width: 2px;
+    border-radius: 5px;
 }
