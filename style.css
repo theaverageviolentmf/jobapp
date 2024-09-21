@@ -36,17 +36,31 @@ button {
     column-gap: 20px;
 }
 .links {
-    background-color: red;
-    display: inline-block;
-    column-gap: 10px;
+    background-color: aliceblue;
+    padding-left: 20px;
+    display: flex;
+    column-gap: 30px;
     color: white;
-    width: 50;
-    height: 15;
+    width: 500;
 }
 #myemail {
- float: right;
-display: flex;
+    padding-top: 10px;
+    float: right;
+    display: flex;
+    padding-right: 100px;
 }
 form {
-    display: flex;
+    float: left;
+    width: 600px;
+    height: 300px;
+}
+footer {
+    background-color: whitesmoke;
+    height:300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+input {
+    width: 300px;
 }
