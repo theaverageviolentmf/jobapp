@@ -25,4 +25,5 @@ button {
     background-color: rgb(245, 245, 245);
     border-radius: 10px;
     padding-left: 20px;
+    display: inline-block;
 }
