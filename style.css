@@ -7,7 +7,7 @@ button {
     background-color: rgb(255, 238, 230);
     padding-left: 10px;
 }
-.tech {
+#tech {
     border-color: gray;
     border-width: 100px;
     border-radius: 5px;
