@@ -24,7 +24,7 @@ button {
 #write {
     padding-left: 10px;
     height: 300px;
-    background-color: rgb(245, 245, 245)
+    background-color: rgb(245, 245, 245);
 }
 .description {
     background-color: rgb(245, 245, 245);
@@ -35,4 +35,8 @@ button {
     display: flex;
     column-gap: 20px;
 }
-
+.link {
+    background-color: red;
+    display: inline-block;
+    column-gap: 10px;
+}
