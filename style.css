@@ -35,11 +35,15 @@ button {
     display: flex;
     column-gap: 20px;
 }
-.link {
+.links {
     background-color: red;
     display: inline-block;
     column-gap: 10px;
 }
 #myemail {
- float: right;   
+ float: right;
+display: flex;
+}
+form {
+    display: flex;
 }
