@@ -1,25 +1,8 @@
 html {
-  text-align: center;
   background-color: blue;
 }
-.intro {
-  text-align: center;
-  margin: 0%;
-}
-.highlight {
-  background-color: lime;
-  color: white;
-}
-p {
-  font-family: sans-serif;
-  color: white;
-}
-a {
-  color: red;
-}
-a:visited {
-  color: hotpink;
-}
-a:hover {
-  color: lime;
+.textbox {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(238, 238, 238);
 }
