@@ -40,3 +40,6 @@ button {
     display: inline-block;
     column-gap: 10px;
 }
+#myemail {
+ float: right;   
+}
