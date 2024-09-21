@@ -39,6 +39,9 @@ button {
     background-color: red;
     display: inline-block;
     column-gap: 10px;
+    color: white;
+    width: 50;
+    height: 15;
 }
 #myemail {
  float: right;
